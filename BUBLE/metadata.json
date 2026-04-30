@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Descent",
+  "description": "A survival descent game where you control a stickman with an umbrella, matching colors to pass through bubbles safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
